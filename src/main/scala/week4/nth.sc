@@ -12,3 +12,4 @@ nth(2, list)
 nth(1, list.tail)
 
 //nth(2, list.tail) // exception thrown
+List(1,2)
